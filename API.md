@@ -1,11 +1,5 @@
 
 ## Hexbot API
-GET /hexbot
-{
-  "colors": [
-    {"value": "#52a351"}
-  ]
-}
 
 
 ### Get a single hexcode
